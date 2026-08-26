@@ -1,0 +1,1 @@
+Halo nama aku muhammad faqih gibran, aku berasal dari bandung jawa barat
