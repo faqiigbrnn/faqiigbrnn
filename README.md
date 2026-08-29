@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Faqih%20Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Muhammad%20Faqih%20Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
 
-# 👋 Halo, Saya Muhammad Faqih Gibran
 
 **Student Software Engineering Student & Fullstack Web Developer**
 
@@ -10,13 +9,15 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihgibran@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faqih-gibran-485743388) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihgibran@gmail.com)
+
 </div>
 
 ---
 
 ### Tentang Saya
 
-Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan fullstack web dan perancangan UI/UX design. Memiliki ketertarikan tinggi dalam mengeksplorasi pembuatan sistem berbasis web serta melakukan analisa sistem (software design) untuk menciptakan solusi digital yang terstruktur, efisien, dan mudah digunakan oleh pengguna.
+Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan fullstack web dan perancangan UI/UX design. Memiliki ketertarikan tinggi dalam mengeksplorasi pembuatan sistem berbasis web serta melakukan analisa sistem (software design) untuk menciptakan solusi digital yang terstruktur dan efisien.
 
 ---
 
