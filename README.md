@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Faqih Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Faqih%20Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
 
 # 👋 Halo, Saya Muhammad Faqih Gibran
 
