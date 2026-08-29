@@ -32,8 +32,7 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan fullsta
 
 ---
 
-</div>
-⚡ Fun Facts
+**⚡ Fun Facts**
 
 * Hobi mencoba hal-hal baru, mulai dari mendesain *merchandise* unik hingga proyek kerajinan tangan (*crafting*)..
 * *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
