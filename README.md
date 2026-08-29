@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Muhammad%20Faqih%20Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
 
 
-**Student Software Engineering Student & Fullstack Web Developer**
+**Software Engineering Student & Fullstack Web Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faqih-gibran-485743388) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihgibran@gmail.com)
 
