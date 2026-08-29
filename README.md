@@ -1,36 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there,%20I'm%20Faqih!&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20Everyone,%20I'm%20Faqih Gibran!&fontSize=40&animation=fadeIn" width="100%"/>
 
 # 👋 Halo, Saya Muhammad Faqih Gibran
 
-**Undergraduate Software Engineering Student & Fullstack Web Developer**
+**Student Software Engineering Student & Fullstack Web Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[USERNAME_LINKEDIN_KAMU])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://[WEBSITE_PORTOFOLIO_KAMU])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faqih-gibran-485743388)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faqihgibran@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
-* 🎓 Mahasiswa **Teknik Informatika / Software Engineering** yang berfokus pada pengembangan *fullstack web* dan *UI/UX design*.
-* 💡 Suka mengeksplorasi pembuatan sistem berbasis web, *mobile apps*, serta analisa sistem (*software design*).
-* 🛠️ Beralaman mengelola proyek-proyek kolaboratif dan riset teknologi.
-* 📫 Cara menghubungi saya: **faqihgibran@gmail.com**
+Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan fullstack web dan perancangan UI/UX design. Memiliki ketertarikan tinggi dalam mengeksplorasi pembuatan sistem berbasis web serta melakukan analisa sistem (software design) untuk menciptakan solusi digital yang terstruktur, efisien, dan mudah digunakan oleh pengguna.
 
 ---
 
 ### 💻 Skills & Tech Stack
 
 **Programming Languages & Core Skills**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Web & UI/UX Design**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,24 +37,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_KAMU]&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
-
 </div>
 
 ---
 
 ### ⚡ Fun Facts
 
-* 🎨 Selain coding, saya juga suka bereksperimen dengan desain grafis, *merchandise design*, dan *crafting*.
-* ☕ *Debugging* terasa lebih cepat berlalu dengan secangkir kopi hangat dan musik yang pas.
-* 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+* Hobi mencoba hal-hal baru, mulai dari mendesain *merchandise* unik hingga proyek kerajinan tangan (*crafting*)..
+* *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 ---
 <div align="center">
-  <sub>Designed with ❤️ by Faqih Gibran</sub>
+  <sub>Faqih Gibran</sub>
 </div>
