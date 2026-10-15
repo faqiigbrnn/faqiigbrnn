@@ -31,8 +31,6 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan fullsta
   <img src="https://skillicons.dev/icons?i=html,css,figma,canva" />
 </a>
 
-<br/><br/>
-
 **Tools & Environment**
 <br/>
 <a href="https://skillicons.dev">
